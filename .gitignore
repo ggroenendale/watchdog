@@ -6,3 +6,10 @@ __pycache__
 
 # Ignore any auto-generated log files
 *.log
+
+# Ignore the main config file. 
+# Rewrite config-sample.yml for your own configuration
+config.yml
+
+# Ignore test files
+*test*
