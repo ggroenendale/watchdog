@@ -1,0 +1,20 @@
+=====================================================================
+Project Name:       Watchdog Automatic Documentation Manager
+Description:        This is a sample documentation file
+Author:             Geoff Groenendale
+Author Email:       g.groenendale@gmail.com
+License:            GNU Public
+License Details:    https://
+=====================================================================
+Resources:
+ ________________________________________________________________
+|   Name            Resource                                     |
+|   -------------   ---------------------------------------------|
+|   Big Text        https://www.messletters.com/en/big-text/     |
+|                                                                |
+|________________________________________________________________|
+
+=====================================================================
+Standards:
+
+=====================================================================
